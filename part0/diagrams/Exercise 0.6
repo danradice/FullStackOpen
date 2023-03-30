@@ -1,0 +1,9 @@
+```mermaid
+flowchart TD
+    A[\JS event handler created to handle the form's submit event/] -.->
+    B(User enters new note and submits it, triggering the event handler) -->
+    C("e.preventDefault() method prevents data being sent to server") -->
+    D(Note is created and added to notes list) -->
+    E(Page is rerendered) -->
+    F(New note is sent to server with HTTP POST request as JSON data)
+```
