@@ -1,11 +1,6 @@
 {
   "persons": [
     {
-      "name": "Dan Abramov",
-      "number": "12-43-234345",
-      "id": 3
-    },
-    {
       "name": "another one",
       "number": "8989898989",
       "id": 9
@@ -17,7 +12,7 @@
     },
     {
       "name": "bim bom",
-      "number": "090909",
+      "number": "8899889",
       "id": 14
     },
     {
