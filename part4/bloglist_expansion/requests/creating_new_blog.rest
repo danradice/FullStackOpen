@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/643cebd442bbd3f3594189
+Content-Type: application/json
+
+{
+  "title": "All about this",
+  "author": "jim",
+  "url": "www.okok.com",
+  "likes": 7
+}
