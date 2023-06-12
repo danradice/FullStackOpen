@@ -1,4 +1,18 @@
 const Blog = require('../models/blog')
+const User = require('../models/user')
+
+const initUserList = [
+  {
+    username: "root",
+    name: "Roland",
+    password: "sandyboy"
+  },
+  {
+    username: "rodney",
+    name: "Rupert",
+    password: "simple"
+  }
+]
 
 const initialList = [
     {

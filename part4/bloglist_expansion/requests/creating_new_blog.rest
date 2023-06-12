@@ -1,9 +1,10 @@
-PUT http://localhost:3003/api/blogs/643cebd442bbd3f3594189
+POST http://localhost:3003/api/blogs
 Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkRpbWJsZSIsImlkIjoiNjQ4MmJlMGQ4ZWZkZmIxZmJmNWMxYTI4IiwiaWF0IjoxNjg2MjkxMTM0fQ.6C77agg2d5iOeb7jbjxK5y6CNC1z-KXRUorJL8Gy8tQ
 
 {
-  "title": "All about this",
-  "author": "jim",
-  "url": "www.okok.com",
-  "likes": 7
+  "title": "Dim bim bom",
+  "author": "bouuuuu",
+  "url": "www.uiuiuiuijijjjij.com",
+  "likes": 5
 }
